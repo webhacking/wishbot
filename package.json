@@ -1,0 +1,22 @@
+{
+  "name": "wishbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prompts": "^2.3.2",
+    "puppeteer": "^5.1.0",
+    "rxjs": "^6.6.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/prompts": "^2.0.8",
+    "@types/puppeteer": "^3.0.1"
+  }
+}
